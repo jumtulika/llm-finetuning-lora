@@ -35,11 +35,10 @@ This project focuses on fine-tuning Large Language Models (LLMs) using LoRA/QLoR
 
 llm-finetuning-lora/
 │
-├── data/
-├── notebooks/
-├── report/
-├── README.md
-
+├── data/ # Datasets or links to datasets
+├── notebooks/ # Jupyter notebooks for fine-tuning and experiments
+├── report/ # Project report and documentation
+├── README.md # Project overview and documentation
 ## 💡 Business Relevance
 - Enables natural language querying of databases (Text-to-SQL)
 - Improves efficiency in data-driven decision-making
