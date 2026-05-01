@@ -33,6 +33,13 @@ This project focuses on fine-tuning Large Language Models (LLMs) using LoRA/QLoR
 
 ## 📂 Project Structure
 
+llm-finetuning-lora/
+│
+├── data/
+├── notebooks/
+├── report/
+├── README.md
+
 ## 💡 Business Relevance
 - Enables natural language querying of databases (Text-to-SQL)
 - Improves efficiency in data-driven decision-making
