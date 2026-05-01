@@ -42,7 +42,7 @@ llm-finetuning-lora/
 ├── README.md          # Project overview and documentation
 ```
 
-├── README.md # Project overview and documentation
+
 ## 💡 Business Relevance
 - Enables natural language querying of databases (Text-to-SQL)
 - Improves efficiency in data-driven decision-making
